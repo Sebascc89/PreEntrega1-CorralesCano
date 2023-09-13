@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PreEntrega1-CorralesCano/static/css/main.6cc9513c.css",
+    "main.js": "/PreEntrega1-CorralesCano/static/js/main.03926a00.js",
+    "static/js/787.d68ecb96.chunk.js": "/PreEntrega1-CorralesCano/static/js/787.d68ecb96.chunk.js",
+    "index.html": "/PreEntrega1-CorralesCano/index.html",
+    "main.6cc9513c.css.map": "/PreEntrega1-CorralesCano/static/css/main.6cc9513c.css.map",
+    "main.03926a00.js.map": "/PreEntrega1-CorralesCano/static/js/main.03926a00.js.map",
+    "787.d68ecb96.chunk.js.map": "/PreEntrega1-CorralesCano/static/js/787.d68ecb96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cc9513c.css",
+    "static/js/main.03926a00.js"
+  ]
+}
